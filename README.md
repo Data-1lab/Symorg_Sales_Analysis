@@ -15,7 +15,7 @@ This is a Power BI Project on sales analysis of an imaginary store called **Symo
 3.  Which region has the highest sales in the current year?
 4.  What is the top product by sales?
 
-## Skills/Cocepts Demonstrated:
+## Skills/Concepts Demonstrated:
 
 The following Power BI features were incorporated:
 - Bookmarking
