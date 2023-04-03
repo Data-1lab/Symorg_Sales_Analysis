@@ -47,7 +47,7 @@ You can interact with the report here (https://1drv.ms/u/s!ArJ9eZQ-YoizhGlaXAV5p
 
 - Portland reached 1,000 sales in December to close out the year.
 - High Top product returns doubled in mexico (4 to 8) at a return rate of 1.2%.
-- Plate products drove the tsrongest overall profit margin (63.55%) in 1998.
+- Plate products drove the strongest overall profit margin (63.55%) in 1998.
 - The highest transactions was generated in the United States.
 
 
