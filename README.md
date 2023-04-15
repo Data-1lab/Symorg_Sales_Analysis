@@ -45,9 +45,9 @@ You can interact with the report here (https://1drv.ms/u/s!ArJ9eZQ-YoizhGlaXAV5p
 
 ## Conclusions & recommendations:
 
-- Portland reached 1,000 sales in December to close out the year.
-- High Top product returns doubled in mexico (4 to 8) at a return rate of 1.2%.
-- Plate products drove the strongest overall profit margin (63.55%) in 1998.
-- The highest transactions was generated in the United States.
+- Revenue dropped significantly by over 82% in the last week of the year compared to the previous month in Mexico. 
+- Hermanos Product generated the highest profit of $11,233 in the USA.
+- ADJ products drove the strongest overall profit margin (68.84%) in Canada. 
+- The highest transactions 2796 was generated in the United States.
 
 
